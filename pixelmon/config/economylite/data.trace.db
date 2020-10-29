@@ -1,0 +1,8 @@
+2020-10-28 22:04:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
+2020-10-28 22:04:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
+2020-10-28 22:07:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]
+2020-10-28 22:07:31 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: No data is available [2000-196]

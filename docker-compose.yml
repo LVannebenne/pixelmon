@@ -2,7 +2,7 @@
 version: "3.7"
 services:
     minecraft:
-        image: pixelmon:1.1
+        image: pixelmon:1.2
         ports:
             - "25565:25565"
         volumes:    

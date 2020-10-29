@@ -1,0 +1,15 @@
+/pixelmon/world/
+/pixelmon/Impactor/
+/pixelmon/logs/
+/pixelmon/luckperms
+/pixelmon/mods
+/pixelmon/libraries
+/pixelmon/crash-reports
+/pixelmon/pixelmon
+/pixelmon/.mixin.out
+
+
+mods.tar.gz
+/pixelmon-old
+/docker-pixelmon-reforged
+
